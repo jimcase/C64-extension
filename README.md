@@ -1,6 +1,5 @@
 
 # C64 Extension
-evDependencies Status](https://david-dm.org/lxieyang/chrome-extension-boilerplate-react/dev-status.svg)](https://david-dm.org/lxieyang/chrome-extension-boilerplate-react?type=dev)
 
 ## Features
 
